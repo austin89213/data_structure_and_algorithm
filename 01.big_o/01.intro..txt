@@ -1,0 +1,2 @@
+Big O is about time complexity & space Complexity
+Usually we foucs on time complexity rather than space complexity

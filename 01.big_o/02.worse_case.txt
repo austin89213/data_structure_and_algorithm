@@ -1,0 +1,7 @@
+If we are going to loop the beloew list to get specific number, there would be some casescape
+[1,2,3,4,5,6,7]
+1 is Ω which menas the best case senario
+4 is θ which menas the average case senario
+7 is Ο which menas the worst case senario
+
+When we talk about Big O, it's always talking about the worst case!
