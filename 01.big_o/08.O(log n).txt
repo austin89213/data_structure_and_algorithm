@@ -1,0 +1,4 @@
+For example, there are 1073741824 objects in a list.
+If we are going to iterate through all of it, it takes so many operations.
+But if we cut it to half, then it only takes 31 times to get one item.
+This is O(log n ).
